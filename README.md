@@ -1,7 +1,7 @@
-# Migration-on-AWS
+## Migration-on-AWS
 業務でこれから使用するAWS DMSやSCTを構築するため、セットアップする。
 
-# Terraformコマンド
+## Terraformコマンド
 $ terraform init
 Terraformの実行に必要なプラグインをインターネットから取得
 実行結果にTerraform has been successfully initialized!と表示されていれば成功。
