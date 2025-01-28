@@ -15,3 +15,6 @@ apply実行時にどんなリソースが作成されるかを確認できる
 
 $ terraform apply
 実環境上にリソースを構築します。
+
+$ terraform destroy
+構築した環境を削除
